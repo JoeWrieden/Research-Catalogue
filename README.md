@@ -8,7 +8,7 @@ This is a collection of links to my public research papers and blogs I have comp
 
 ## Who is Trickbot?
 
-[Link to paper]([https://www.cyjax.com/resources/blog/who-is-trickbot/](https://www.cyjax.com/resources/blog/who-is-trickbot/))
+[Link to paper](https://www.cyjax.com/resources/blog/who-is-trickbot/)
 
 Within this paper I analysed the contents of the Trickbot Leaks; a collection of leaks which contained over 250,000 messages. I break down the information found within the leaks, as well as exploring how this information gives us a greater insight into how cybercriminal groups operate.
 
