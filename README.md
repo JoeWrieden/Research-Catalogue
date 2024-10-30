@@ -8,11 +8,11 @@ This is a collection of links to my public research papers and blogs I have comp
 
 ## Who is Trickbot?
 
-[Link to paper](https://www.cyjax.com/who-is-trickbot/)
+[Link to paper]([https://www.cyjax.com/resources/blog/who-is-trickbot/](https://www.cyjax.com/resources/blog/who-is-trickbot/))
 
 Within this paper I analysed the contents of the Trickbot Leaks; a collection of leaks which contained over 250,000 messages. I break down the information found within the leaks, as well as exploring how this information gives us a greater insight into how cybercriminal groups operate.
 
-#### Referenced
+#### References / Further Analysis
 
 - [Forbes: Inside The Russian Cybergang Thought To Be Attacking Ukraine—The Trickbot Leaks](https://www.forbes.com/sites/daveywinder/2022/07/15/inside-the-russian-cybergang-thought-to-be-attacking-ukraine-the-trickbot-leaks/)
 
@@ -42,19 +42,19 @@ This paper explores the trend towards the usage of DDoS-as-a-Service techniques 
 
 This series of papers, explores the ever changing threat landscape facing the cryptocurrency sector. I have been writing this series since 2022, with the first paper [Ten Ways to Lose Your Crypto](https://www.cyjax.com/ten-ways-to-lose-your-crypto/) starting the series by recapping the top 10 threats I identified at the time. Since then, originally monthly, and then quarterly I have reviewed the ever changing threat landscape facing the cryptocurrency sector. Through this I have outlined technical attacks to blockchain technologies, as well as the evolution of more traditional attacks to target the cryptocurrency space. 
 
-#### [Ten Ways to Lose Your Crypto](https://www.cyjax.com/ten-ways-to-lose-your-crypto/)
+#### [Ten Ways to Lose Your Crypto](https://www.cyjax.com/resources/blog/ten-ways-to-lose-your-crypto/)
 
-#### [Monthly Crypto Report - August 2022](https://www.cyjax.com/monthly-crypto-report-august-2022/)
+#### [Monthly Crypto Report - August 2022](https://www.cyjax.com/resources/blog/monthly-crypto-report-august-2022/)
 
-#### [Monthly Crypto Report – September 2022](https://www.cyjax.com/monthly-crypto-report-september-2022/)
+#### [Monthly Crypto Report – September 2022](https://www.cyjax.com/resources/blog/monthly-crypto-report-september-2022/)
 
-#### [Monthly Crypto Threat Landscape Report - October 2022](https://www.cyjax.com/monthly-crypto-threat-landscape-report-october-2022/)
+#### [Monthly Crypto Threat Landscape Report - October 2022](https://www.cyjax.com/resources/blog/monthly-crypto-threat-landscape-report-october-2022/)
 
-#### [Monthly Crypto Threat Landscape Report – November 2022](https://www.cyjax.com/monthly-crypto-threat-landscape-report-november-2022/)
+#### [Monthly Crypto Threat Landscape Report – November 2022](https://www.cyjax.com/resources/blog/monthly-crypto-threat-landscape-report-november-2022/)
 
-#### [Cryptocurrency Threat Landscape Report: A Year in Review 2022](https://www.cyjax.com/cryptocurrency-threat-landscape-report-a-year-in-review-2022-2/)
+#### [Cryptocurrency Threat Landscape Report: A Year in Review 2022](https://www.cyjax.com/cryptocurrency-threat-landscape-report-a-year-in-review-2022/)
 
-#### [Cryptocurrency Threat Landscape Report – Q2 2023](https://www.cyjax.com/cryptocurrency-threat-landscape-report-q2-2023/)
+#### [Cryptocurrency Threat Landscape Report – Q2 2023](https://www.cyjax.com/resources/blog/cryptocurrency-threat-landscape-report-q2-2023/)
 
 #### [Cryptocurrency Threat Landscape Report – Q3 2023](https://www.cyjax.com/cryptocurrency-threat-landscape-report-q3-2023/)
 
